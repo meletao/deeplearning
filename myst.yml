@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 2f14361e-6800-42a8-9b9c-5ad021bf67af
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/meletao/deeplearning
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
